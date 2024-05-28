@@ -1,0 +1,67 @@
+
+
+Oops  -  Object Oriented Programming
+------------------------------------
+
+procedural programming language (basics)
+object oriented programming language
+
+
+class - design / blue print / basic structure
+object - real world entity
+reference - used to store object (variable) 
+
+
+constructor  
+------------
+constructor is used to initialize (start) object at the time of object creation
+inbuilt method it invoke(work) automatically during object creation
+
+
+inheritance
+-----------
+class - methods , attributes (properties)
+inheritance is use properties of one in another class
+
+1) single inheritance - (one parent)
+2) multiple inheritance - (more than one parent) but javaScript doesn't support multiple inheritance
+3) multilevel/hierarchial inheritance
+4) hybrid inheritance - which means we can use all types of inheritance in a program
+
+
+polymorphism
+------------
+many-form
+
+1) overloading - method name are same but number of parameters are different
+2) over-riding - same method name and same number of parameters
+
+
+encapsulation - class
+abstraction - methods
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+NOTE THE POINT
+--------------
+
+
+Mutable    ---->  Means Editable(update) Collection is mutable            (eg : Array , object...)
+
+inMutable  ---->  Means UnEditable Collection 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ ...   --> Spread Operator  => used to combine two array  (2 array ne Join cheyyan vendi)
+
+ ...   --> rest Operator    => used in functions and instead of parameter
+
+ spred --> Array
+ rest  --> function
+
+ 
